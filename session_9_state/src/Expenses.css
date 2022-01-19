@@ -1,0 +1,15 @@
+.expenses {
+  width: 50vw;
+  max-width: 100%;
+  padding: 10px 20px;
+  background-color: rgba(255, 89, 205, 0.082);
+  margin: 0 auto;
+}
+
+.expenses__no-data {
+  font-size: 40px;
+  color: white;
+  text-align: center;
+  padding: 1rem 0;
+  font-style: italic;
+}

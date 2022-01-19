@@ -1,0 +1,44 @@
+.expense-form {
+  max-width: 60vw;
+  padding: 1rem 2rem;
+  background-color: burlywood;
+  border-radius: 12px;
+  margin: 0 auto;
+}
+.expense-form__items {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.expense-form__item {
+}
+.expense-form__item label {
+  font-weight: bold;
+  margin-right: 8px;
+}
+.expense-form__item input {
+  padding: 12px 18px;
+  border-radius: 8px;
+  outline: none;
+  border: none;
+}
+.expense-form__btns {
+  text-align: center;
+  margin-top: 2rem;
+}
+.expense-form__btn-add,
+.expense-form__btn-cancel {
+  font-size: 20px;
+  margin: 0px 8px;
+  border-radius: 8px;
+  outline: none;
+  border: none;
+  transition: 0.3s;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.expense-form__btn-add:hover {
+  background-color: rgba(36, 36, 36, 0.315);
+  color: white;
+}

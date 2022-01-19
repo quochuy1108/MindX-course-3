@@ -1,0 +1,9 @@
+.body-container {
+  margin-left: 10px;
+  width: 800px;
+  height: 500px;
+  border-radius: 5px;
+  border: 1px solid #ececec;
+  padding: 10px;
+  overflow: auto;
+}

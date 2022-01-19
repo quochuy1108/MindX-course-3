@@ -1,0 +1,15 @@
+.about-us__container {
+  display: flex;
+  height: 200px;
+}
+
+.about-us__sidebar {
+  width: 200px;
+  height: 100%;
+  border-right: 1px solid #ececec;
+}
+
+.about-us__body {
+  flex: 1;
+  height: 100%;
+}

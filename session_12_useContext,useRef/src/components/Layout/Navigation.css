@@ -1,0 +1,18 @@
+.navigation-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border: 1px solid #ececec;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.navigation-brandname {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.navigation-dropdown {
+  margin-left: 5px;
+}

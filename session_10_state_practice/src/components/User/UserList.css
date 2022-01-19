@@ -1,0 +1,15 @@
+.user-list {
+  margin: 12px auto;
+  background-color: #ad40e0;
+  max-width: 400px;
+}
+
+.user-list__search {
+  width: 50%;
+  border-radius: 4px;
+  padding: 3px 5px;
+  outline: none;
+  border: 0px;
+  margin: 0 auto;
+  display: block;
+}

@@ -1,0 +1,42 @@
+.btn {
+  padding: 16px 32px;
+  border: none;
+  border-radius: 12px;
+  font-size: 16px;
+}
+
+.btn-main {
+  background-color: blue;
+  color: white;
+}
+
+.btn-main:hover {
+  background-color: darkslateblue;
+}
+
+.btn-cancel {
+  background-color: gray;
+  color: white;
+}
+
+.btn-cancel:hover {
+  background-color: darkgray;
+}
+
+.btn-info {
+  background-color: cyan;
+  color: white;
+}
+
+.btn-info:hover {
+  background-color: darkcyan;
+}
+
+.btn-danger {
+  background-color: red;
+  color: white;
+}
+
+.btn-danger:hover {
+  background-color: darkred;
+}

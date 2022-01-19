@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #2e1332;
+  font-family: sans-serif;
+}
+
+.App {
+  position: relative;
+}

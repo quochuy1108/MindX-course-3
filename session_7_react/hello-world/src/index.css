@@ -1,0 +1,13 @@
+.name-cards {
+  padding: 12px;
+  margin: 5px;
+  border: 1px solid black;
+  border-radius: 4px;
+  font-weight: bold;
+  width: 250px;
+}
+
+body {
+  background-color: #3c3c3c;
+  margin: 0;
+}
